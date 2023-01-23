@@ -1,0 +1,28 @@
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  border-radius: 0;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 7px;
+  height: 0;
+  width: 5%;
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h2 {
+  color: #66BFBF;
+}
+
+.multicolor {
+  color: #fff;
+  background: linear-gradient(271deg, #a0e9ff 30%, #a162e8 50%, #f093b0 70%, #edca85 94%);
+  background-clip: border-box;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
